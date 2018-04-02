@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "5AA0B2CB-E017-4E97-80B8-3564525E7047",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 135,
+    "width": 297,
+    "x": 10,
+    "y": 190
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C0E60630-82A8-4944-888F-F01F661F4605"
+    },
+    {
+      "class": "text",
+      "id": "67B9940C-1546-46C9-AF52-9463C6F50206"
+    },
+    {
+      "class": "text",
+      "id": "09B5E8C5-3489-4698-BA0E-142466C9A579"
+    },
+    {
+      "class": "group",
+      "id": "3D8D702E-1599-481A-9EC0-1F88EFE7DC74"
+    }
+  ],
+  "name": "chat copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "FDACDCE2-111E-4B92-B5B3-B24D4AC064C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "937DEB3B-B338-4C5D-B3C3-E5D6B1E29825",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "56F51322-7766-4419-A41F-3B1DFE536A5C",
+    "height": 28,
+    "width": 28,
+    "x": 626,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "94ED2902-6C16-41A9-8259-E0D6E57A94A2"
+    }
+  ],
+  "name": "hallway_logo_green",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E770F5F-B30B-45DF-A476-B1964705E95D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 48,
+            "enabled": 1,
+            "modelID": "constraint_7845ee6c-1146-4a0b-abe5-39d2261b9bb8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 48
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_335f5f72-b054-4c4f-919b-3616fc7210e5",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "BE00B22D-8E57-4960-9016-92E1E0F9A2CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 530,
+    "width": 504,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2FEA1327-E312-4B5F-BF59-2EBF2694C2DC"
+    },
+    {
+      "class": "group",
+      "id": "5E51AA58-889E-422E-BCB0-A3A8F41FE8CB"
+    },
+    {
+      "class": "group",
+      "id": "A57979E8-6896-46AE-8601-613F0D8FB6AE"
+    }
+  ],
+  "name": "video chat",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
